@@ -1,4 +1,4 @@
-# The First Multilingual Corpus of Incoming Hatemail
+# The Multilingual Corpus of Incoming Hatemail
 
 ## Purpose
 
@@ -25,7 +25,7 @@ Currently the submission format is JSON, 1 string per entry:
 
 ```
 
-Tag the language with the [ISO 639-2 Language Code](http://www.loc.gov/standards/iso639-2/php/code_list.php)
+Tag the language with the [ISO 639-2 Language Code](http://www.loc.gov/standards/iso639-2/php/code_list.php).
 
 Submit into a folder by username (or Anonymous, if you prefer). Data may be processed and reorganized later.
 
