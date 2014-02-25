@@ -15,11 +15,11 @@ Currently the submission format is JSON, 1 string per entry:
 { "entries" : [
 	{
 		"text" : "HATEMAIL IN HEBREW AND ENGLISH GOES HERE",
-		"languages" : [heb, eng]
+		"languages" : ["heb", "eng"]
 	},
 	{
 		"text" : "MORE HATEMAIL IN ESTONIAN GOES HERE",
-		"languages" : [est]
+		"languages" : ["est"]
 	}
 ]}
 
