@@ -20,7 +20,7 @@ Currently the submission format is JSON, 1 string per entry:
 	{
 		"text" : "MORE HATEMAIL IN ESTONIAN GOES HERE",
 		"languages" : [est]
-	},
+	}
 ]}
 
 ```
