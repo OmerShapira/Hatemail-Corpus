@@ -1,8 +1,9 @@
-# The Multilingual Corpus of Incoming Hatemail
+# The Multilingual Hatemail Corpus
 
 ## Purpose
 
 This corpus has been formed as a go-to repository for researchers and hobbyists interested in hatemail.
+
 
 ## Submission Guidelines
 

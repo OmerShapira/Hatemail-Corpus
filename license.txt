@@ -1,0 +1,8 @@
+*************************************************
+*                                               *
+* License for the Multilingual Hatemail Corpus. *
+*                                               *
+*************************************************
+
+This license follows the GPL, which can be found here:
+https://www.gnu.org/licenses/gpl.html

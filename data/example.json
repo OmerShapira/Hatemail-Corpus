@@ -1,0 +1,10 @@
+{ "entries" : [
+	{
+		"text" : "HATEMAIL IN HEBREW AND ENGLISH GOES HERE",
+		"languages" : ["heb", "eng"]
+	},
+	{
+		"text" : "MORE HATEMAIL IN ESTONIAN GOES HERE",
+		"languages" : ["est"]
+	}
+]}
